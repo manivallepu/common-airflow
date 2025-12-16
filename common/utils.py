@@ -5,3 +5,6 @@ def get_env():
 
 def add(a: int, b: int) -> int:
     return a + b
+
+def mutiply(a: int,b:int) -> int:
+    return a*b
